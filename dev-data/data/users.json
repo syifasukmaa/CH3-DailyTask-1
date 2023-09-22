@@ -1,12 +1,12 @@
 [
   {
     "_id": "5c8a1dfa2f8fb814b56fa181",
-    "name": "Lourdes Browning",
-    "email": "loulou@example.com",
+    "name": "Shania Gracia",
+    "email": "gracia@gmail.com",
     "role": "user",
     "active": true,
-    "photo": "user-2.jpg",
-    "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    "photo": "user-20.jpg",
+    "password": "$2a$12$uA9FsDw63v6dkJKGlLQ/8ufYBs8euB7kqIQewyYlZXU5azEKeLEky"
   },
   {
     "_id": "5c8a1e1a2f8fb814b56fa182",
@@ -171,12 +171,12 @@
     "password": "$2a$12$uA9FsDw63v6dkJKGlLQ/8ufYBs8euB7kqIQewyYlZXU5azEKeLEky"
   },
   {
-    "_id": "650bbd257cfd75c6920c7a24",
-    "name": "Shani Indira Natio",
-    "email": "ShaniIndira@gmail.com",
+    "_id": "650d022e9e816fed58657650",
+    "name": "Sisca Saras",
+    "email": "sisca@gmail.com",
     "role": "user",
     "active": true,
-    "photo": "user-20.jpg",
-    "password": "$2a$12$uA9FsDw63v6dkJKGlLQ/8ufYBs8euB7kqIQewyYlZXU5azEKeLEky"
+    "photo": "user-21.jpg",
+    "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
   }
 ]
